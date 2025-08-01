@@ -40,7 +40,7 @@ Visualized the data using plots, graphs, and heatmaps.
 
 Analyzed survival patterns based on gender, class, age groups, embarkation points, and family size.
 
-📊 Some Key Insights
+## 📊 Some Key Insights
 Gender mattered: Women had much higher survival rates than men.
 
 Class played a big role: First-class passengers were more likely to survive.
