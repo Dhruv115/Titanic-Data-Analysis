@@ -23,10 +23,6 @@ Using data from the [Kaggle Titanic competition](https://www.kaggle.com/c/titani
 
 ---
 
-## 🛠 How to Run It
-
-To explore the notebook yourself:
-
 ## 🧪 What We Did
 Here’s a quick look at the steps we took:
 
@@ -50,6 +46,10 @@ Traveling with family might’ve helped (but not always).
 Port of boarding affected survival rates — some ports had more survivors.
 
 Younger passengers generally had better chances.
+
+## 🛠 How to Run It
+
+To explore the notebook yourself:
 
 ```bash
 git clone https://github.com/Dhruv115/Titanic-Data-Analysis.git
